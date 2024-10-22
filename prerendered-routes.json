@@ -1,0 +1,11 @@
+{
+  "routes": [
+    "/about",
+    "/classes",
+    "/contact",
+    "/login",
+    "/register",
+    "/students",
+    "/teachers"
+  ]
+}
